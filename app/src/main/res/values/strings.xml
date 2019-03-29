@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Mumbai Darshan</string>
+    <string name="Siddhivinayak">
+        <a href="https://en.wikipedia.org/wiki/Siddhivinayak_Temple,_Mumbai">Want to know more?</a>
+    </string>
+    <string name="Worli_Sea_Face">
+        <a href="https://en.wikipedia.org/wiki/Worli">Want to know more?</a>
+    </string>
+    <string name="Nehru_Science_Planetarium">
+        <a href="https://en.wikipedia.org/wiki/Nehru_Science_Centre">Want to know more?</a>
+    </string>
+    <string name="Marine_Drive">
+        <a href="https://en.wikipedia.org/wiki/Marine_Drive,_Mumbai">Want to know more?</a>
+    </string>
+    <string name="Aquarium">
+        <a href="https://en.wikipedia.org/wiki/Taraporewala_Aquarium">Want to know more?</a>
+    </string>
+    <string name="Colaba">
+        <a href="https://en.wikipedia.org/wiki/Colaba">Want to know more?</a>
+    </string>
+    <string name="gate">
+        <a href="https://en.wikipedia.org/wiki/Gateway_of_India">Want to know more?</a>
+    </string>
+    <string name="taj">
+        <a href="https://en.wikipedia.org/wiki/The_Taj_Mahal_Palace_Hotel">Want to know more?</a>
+    </string>
+    <string name="vastu">
+        <a href="https://en.wikipedia.org/wiki/Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya">Want to know more?</a>
+    </string>
+    <string name="Walkeshwar">
+        <a href="https://en.wikipedia.org/wiki/Walkeshwar">Want to know more?</a>
+    </string>
+    <string name="napean">
+        <a href="https://en.wikipedia.org/wiki/Nepean_Sea_Road">Want to know more?</a>
+    </string>
+    <string name="juhu">
+        <a href="https://en.wikipedia.org/wiki/Juhu">Want to know more?</a>
+    </string>
+    <string name="breach">
+        <a href="https://en.wikipedia.org/wiki/Breach_Candy">Want to know more?</a>
+    </string>
+    <string name="laxmi">
+        <a href="https://en.wikipedia.org/wiki/Mahalakshmi_Temple,_Mumbai">Want to know more?</a>
+    </string>
+    <string name="sea_link">
+        <a href="https://en.wikipedia.org/wiki/Bandra%E2%80%93Worli_Sea_Link">Want to know more?</a>
+    </string>
+    <string name="haji">
+        <a href="https://en.wikipedia.org/wiki/Haji_Ali_Dargah">Want to know more?</a>
+    </string>
+    <string name="audiocompass">
+        <a href="https://bnc.lt/m/GhOKkCqEpd">Get the app</a>
+    </string>
+    <string name="zomato">
+        <a href="https://www.zomato.com/mobile">Get the app</a>
+    </string>
+    <string name="booking">
+        <a href="https://www.booking.com/apps.html">Get the app</a>
+    </string>
+    <string name="title_activity_main19">Main19Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_main192">Main192Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
